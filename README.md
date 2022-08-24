@@ -1,4 +1,4 @@
-# Quaternion-Neural-Network
+# Quaternion-Valued-Neural-Network
 
 Thhe purpose of this project was to build a quaternion neural network from scratch using only numpy. 
 
