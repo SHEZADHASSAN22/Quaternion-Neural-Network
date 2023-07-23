@@ -1,6 +1,6 @@
 # Quaternion-Valued-Neural-Network
 
-Thhe purpose of this project was to build a quaternion neural network from scratch using only numpy. 
+The purpose of this project was to build a quaternion neural network from scratch using only numpy. 
 
 The super_simple_QVNN is as implied a very simple network consisting of only three neurons. This network has only one set of training data 
 which consists of a fixed input and a pre-defined desired output. The goals is to get the network to learn the correct weights ans biases,
